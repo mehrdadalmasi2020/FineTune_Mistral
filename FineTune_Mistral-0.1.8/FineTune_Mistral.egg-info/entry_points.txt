@@ -1,0 +1,2 @@
+[console_scripts]
+finetune-mistral = FineTune_Mistral.fine_tune:main
